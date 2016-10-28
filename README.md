@@ -2,24 +2,53 @@
 
 ## Experience
 
-### [Walit s.r.l.] (http://walit.it)
-* Jul. 2015 - Now
-* Senior developer
-* [Projects](projects/walit)
+### Walit
+Senior full-stack developer in charge with both front-end and back-end projects.
 
-### [Meta Line s.r.l.](http://metaline.it)
+* Jul. 2016 - Now
+* Senior developer
+* [Projects](projects/walit/walit.md)
+* [Website] (http://walit.it)
+
+### Meta Line
+
 * Sep. 2015 - Jul. 2016
 * Senior developer
-* [Projects](projects/metaline)
+* [Projects](projects/metaline/metaline.md)
 
-### [PT Communication s.r.l.](http://ptcommunication.it)
+### PT Communication
+Lead developer in charge with
+
 * Jan. 2011 - Jul. 2015
-* Lead developer
-* [Projects](projects/ptcommunication)
+* Full-stack developer
+* [Projects](projects/ptcommunication/ptcommunication.md)
+
+### Global Intelligence Service
+
+### Tech Center
+
+### Own projects
+* test
 
 ## Education
 
 ## Skills
+
+### Web development
+### Server side develoment
+### Mobile app development
+### Desktop develoment
+* Objective-C - XCode
+* Xojo
+* AutoIt Script
+* C#
+* C/C++
+
+
+### Databases
+* MySQL
+* PostreSQL
+* MongoDB
 
 ## Languages
 * Romanian
