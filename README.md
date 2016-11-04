@@ -35,6 +35,11 @@ Lead developer in charge with
 ## Skills
 
 ### Web development
+* Vue JS
+* Angular JS
+* React JS
+* jQuery
+
 ### Server side develoment
 ### Mobile app development
 ### Desktop develoment
