@@ -14,6 +14,9 @@
 * Rhoss
 * Speedy Pollo
 * Ziel & Marina Militare
+* Tina Prize
+* Venice Marathon
+* Venice Marathon - Subscription web app
 
 #### Other old projects
 * **MET Jeans** - Mobile app
