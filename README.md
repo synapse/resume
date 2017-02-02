@@ -28,7 +28,19 @@ Lead developer in charge with
 ### Tech Center
 
 ### Own projects
-* test
+* [Safe Mac App](projects/own/safe/safe.md)
+* [De Stefani winery website](projects/own/de-stefani/de-stefani.md)
+* [De Stefani winery e-commerce](projects/own/de-stefani-shop/de-stefani-shop.md)
+* Hotel Negresco website
+* Made In Italy Academy
+* Redentore winery website
+* [Stacks App](projects/own/stacks/stacks-app.md)
+* [Stacks website](projects/own/stacks/stacks-website.md)
+* SVS website
+* [Source App](projects/own/source/source.md)
+* Synapse PHP Framework
+* Franco Caffee website
+* Safe JS
 
 ## Education
 
