@@ -56,6 +56,8 @@
 * [Source App](projects/own/source/source.md)
 * Synapse PHP Framework
 * Franco Caffee website
+* Nimbus platform
+* Bookmarker
 * Safe JS
 
 ## Education
