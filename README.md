@@ -1,5 +1,3 @@
-# Cristian Barlutiu
-
 ## Experiences
 
 ### Walit
