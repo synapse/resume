@@ -3,29 +3,45 @@
 ## Experiences
 
 ### Walit
-Senior full-stack developer in charge with both front-end and back-end projects.
+**Jul. 2016 - Now** - Senior full-stack developer in charge with both front-end and back-end projects.
 
-* Jul. 2016 - Now
-* Senior developer
-* [Projects](projects/walit/walit.md)
+>* [Projects](projects/walit/walit.md)
 * [Website] (http://walit.it)
 
 ### Meta Line
 
-* Sep. 2015 - Jul. 2016
-* Senior developer
-* [Projects](projects/metaline/metaline.md)
+**Sep. 2015 - Jul. 2016** - Senior developer
+
+> * [Projects](projects/metaline/metaline.md)
+* [Website](http://metaline.it)
 
 ### PT Communication
-Lead developer in charge with
+**Jan. 2011 - Jul. 2015** - Senior full-stack developer in charge with both front-end and back-end projects.
 
-* Jan. 2011 - Jul. 2015
-* Full-stack developer
+>* web and mobile application developer
+* client and server side application developer
+* comprehensive database management
+* UX/UI designer
 * [Projects](projects/ptcommunication/ptcommunication.md)
+* [Website](http://ptcommunication.it)
+
 
 ### Global Intelligence Service
+**Dec. 2007 - Jan 2011** - Collaborator
+
+> * software e hardware cunsulting
+* PC maintanance and support
 
 ### Tech Center
+
+**Apr. 2007 - Jan. 2011** - Founder and CEO
+
+> * web design e webmaster
+* software e hardware cunsulting
+* C.A.D.
+* PC maintanance and support
+* graphics and design
+* software dev for Windows and Mac OS X (iPhone)
 
 ### Own projects
 * [Safe Mac App](projects/own/safe/safe.md)
@@ -44,28 +60,44 @@ Lead developer in charge with
 
 ## Education
 
+I can speak, read and write ;)
+
 ## Skills
 
 ### Web development
+* HTML5
+* CSS3
 * Vue JS
 * Angular JS
 * React JS
 * jQuery
 
 ### Server side develoment
+* PHP
+* Node JS
+* Ruby
+* Python
+
 ### Mobile app development
+* Objective-C (Cocoa)
+* Appcelerator (Titanium)
+* Cordova/Phonegap
+* Native Script
+* React Native
+
 ### Desktop develoment
 * Objective-C - XCode
 * Xojo
 * AutoIt Script
 * C#
 * C/C++
+* Electron
 
 
 ### Databases
-* MySQL
+* MySQL / MariaDB
 * PostreSQL
-* MongoDB
+* NoSQL (MongoDB, CouchDB)
 
 ## Languages
 * Romanian
