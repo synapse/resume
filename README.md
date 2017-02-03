@@ -27,7 +27,7 @@
 ### Global Intelligence Service
 **Dec. 2007 - Jan 2011** - Collaborator
 
-> * software e hardware cunsulting
+> * software e hardware consulting
 * PC maintanance and support
 
 ### Tech Center
@@ -35,7 +35,7 @@
 **Apr. 2007 - Jan. 2011** - Founder and CEO
 
 > * web design e webmaster
-* software e hardware cunsulting
+* software e hardware consulting
 * C.A.D.
 * PC maintanance and support
 * graphics and design
@@ -45,18 +45,18 @@
 * [Safe Mac App](projects/own/safe/safe.md)
 * [De Stefani winery website](projects/own/de-stefani/de-stefani.md)
 * [De Stefani winery e-commerce](projects/own/de-stefani-shop/de-stefani-shop.md)
-* Hotel Negresco website
-* Made In Italy Academy
-* Redentore winery website
+* [Hotel Negresco website](projects/own/hotel-negresco-jesolo/hotel-negresco-jesolo.md)
+* [Made In Italy Academy](projects/own/made-in-italy-academy/made-in-italy-academy.md)
+* [Redentore winery website](projects/own/redentore/redentore.md)
 * [Stacks App](projects/own/stacks/stacks-app.md)
 * [Stacks website](projects/own/stacks/stacks-website.md)
-* SVS website
+* [SVS website](projects/own/svs/svs.md)
 * [Source App](projects/own/source/source.md)
-* Synapse PHP Framework
-* Franco Caffee website
-* Nimbus platform
-* Bookmarker
-* Safe JS
+* [Synapse PHP Framework](projects/own/synapse-framework/synapse-framework.md)
+* [Franco Caffee website](projects/own/franco-caffe/franco-caffe.md)
+* [Nimbus platform](projects/own/nimbus/nimbus.md)
+* [Bookmarker](projects/own/bookmarker/bookmarker.md)
+* [Safe JS](projects/own/safe-js/safejs.md)
 
 ## Education
 

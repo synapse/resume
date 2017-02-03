@@ -11,14 +11,14 @@
 * Lamborghini Calorclima
 * Novagest
 * Offerte-Abbigliamento
-* Rhoss
+* [Rhoss](rhoss/rhoss.md)
 * Speedy Pollo
 * Ziel & Marina Militare
-* Tina Prize
-* Venice Marathon
+* [Tina Prize](tinaprize/tinaprize.md)
+* [Venice Marathon](venicemarathon/venicemarathon.md)
 * Venice Marathon - Subscription web app
 
-#### Other old projects
+#### Other older projects
 * **MET Jeans** - Mobile app
 * **Heavy Project** - Mobile app
 * **Cycle Jeans** - Mobile app
