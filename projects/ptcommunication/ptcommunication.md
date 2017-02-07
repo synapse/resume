@@ -8,8 +8,8 @@
 * [Federal Mogul](federal-mogul/federal-mogul.md)
 * [Galdi](galdi/galdi.md)
 * [Hi-Motions](himotions/himotions.md)
-* Lamborghini Calorclima
-* Novagest
+* [Lamborghini Calorclima](lamborghinicalor/lamborghinicalor.md)
+* [Novagest](novagest/novagest.md)
 * Offerte-Abbigliamento
 * [Rhoss](rhoss/rhoss.md)
 * Speedy Pollo

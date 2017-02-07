@@ -8,7 +8,7 @@
 
 ### My contribution
 * built all custom back-end components
-* built all custom front-end components and relative module
+* built all custom front-end components and relative modules
 
 ## Home page
 
