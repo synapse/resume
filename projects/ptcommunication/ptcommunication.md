@@ -10,9 +10,9 @@
 * [Hi-Motions](himotions/himotions.md)
 * [Lamborghini Calorclima](lamborghinicalor/lamborghinicalor.md)
 * [Novagest](novagest/novagest.md)
-* Offerte-Abbigliamento
+* [Offerte-Abbigliamento](offerte-abbigliamente/offerte-abbigliamente.md)
 * [Rhoss](rhoss/rhoss.md)
-* Speedy Pollo
+* [Speedy Pollo](speedy-pollo/speedy-pollo.md)
 * Ziel & Marina Militare
 * [Tina Prize](tinaprize/tinaprize.md)
 * [Venice Marathon](venicemarathon/venicemarathon.md)

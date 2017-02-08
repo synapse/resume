@@ -8,7 +8,10 @@
 * configured the back-end CMS structure and logic
 * skinned web site
 
-# 
+## Home page
 ![](home.png)
 
-news.pngproducts.pngsupport.png
+## Products
+![](products.png)
+
+## News![](news.png)## Support page![](support.png)
