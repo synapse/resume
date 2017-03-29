@@ -8,13 +8,15 @@
 
 ### Meta Line
 
-**Sep. 2015 - Jul. 2016** - Senior developer
+**Sep. 2015 - Jul. 2016** - Senior full-stack developer
 
-> * [Projects](projects/metaline/metaline.md)
+> * web and mobile application developer
+* client and server side application developer
+* [Projects](projects/metaline/metaline.md)
 * [Website](http://metaline.it)
 
 ### PT Communication
-**Jan. 2011 - Jul. 2015** - Senior full-stack developer in charge with both front-end and back-end projects.
+**Jan. 2011 - Jul. 2015** - Full-stack developer in charge with both front-end and back-end projects.
 
 >* web and mobile application developer
 * client and server side application developer
