@@ -1,7 +1,7 @@
 ## Experiences
 
 ### Walit
-**Jul. 2016 - Now** - Senior full-stack developer in charge with both front-end and back-end projects.
+**Jul. 2016 - Now** - Senior Full Stack Developer & Software Architect in charge with both front-end and back-end projects.
 
 >* [Projects](projects/walit/walit.md)
 * [Website] (http://walit.it)
@@ -44,6 +44,7 @@
 * software dev for Windows and Mac OS X (iPhone)
 
 ### Own projects
+* [BBQ Handbook](projects/own/bbqhandbook/bbqhandbook.md)
 * [Safe Mac App](projects/own/safe/safe.md)
 * [De Stefani winery website](projects/own/de-stefani/de-stefani.md)
 * [De Stefani winery e-commerce](projects/own/de-stefani-shop/de-stefani-shop.md)
@@ -81,11 +82,11 @@ I can speak, read and write ;)
 * Python
 
 ### Mobile app development
+* React Native
 * Objective-C (Cocoa)
 * Appcelerator (Titanium)
 * Cordova/Phonegap
 * Native Script
-* React Native
 
 ### Desktop develoment
 * Objective-C - XCode
@@ -106,3 +107,4 @@ I can speak, read and write ;)
 * Hungarian
 * Italian
 * English
+								

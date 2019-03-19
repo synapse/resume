@@ -3,5 +3,7 @@
 ### Projects
 
 * [Radar meteo](radarmeteo/radarmeteo.md)
-* [Brunello Cucinelli](brunellocucinelli/brunellocucinelli.md)
-* [Illy Coffee](illy/illy.md)
+* [Brunello Cucinelli - Online Shop](brunellocucinelli/brunellocucinelli.md)
+* [Illy - Online Shop](illy/illy.md)
+* [Furla - Online Shop](furla/furla.md)
+* [Twinset - Online Shop](twinset/twinset.md)
